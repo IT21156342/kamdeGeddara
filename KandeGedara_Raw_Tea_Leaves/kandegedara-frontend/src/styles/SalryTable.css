@@ -1,0 +1,27 @@
+
+
+#tablesSalry{
+    position: absolute;
+    width: 1200px;
+    height: 299px;
+    align-items: center;
+    top: 690px;
+    background:#FFFF;
+    border-radius: 10px;
+    margin-right: 160px;
+}
+/*
+.tableDAta{
+    position: absolute;
+width: 1051.41px;
+height: 43px;
+left: 334px;
+top: 112px;
+}
+.tableheder{
+    position: absolute;
+width: 1051px;
+height: 43px;
+left: 319px;
+top: 108x;
+}*/

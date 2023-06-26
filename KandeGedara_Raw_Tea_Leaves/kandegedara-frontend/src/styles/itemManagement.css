@@ -1,0 +1,142 @@
+.pageName {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+
+}
+
+#btn-generate-report {
+    background: linear-gradient(68.08deg, #1E3E01 9.64%, #116416 92.49%);
+    border: 3px solid rgba(0, 0, 0, 0.24);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    filter: drop-shadow(2px 5px 4px rgba(199, 199, 199, 0.25));
+    width: 232px;
+    font-size: 20px;
+    height: 49px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#btnAddImg {
+    background: linear-gradient(68.08deg, #1E3E01 9.64%, #116416 92.49%);
+    border: 3px solid rgba(0, 0, 0, 0.24);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    filter: drop-shadow(2px 5px 4px rgba(199, 199, 199, 0.25));
+    width: 232px;
+    font-size: 20px;
+    height: 49px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.btnSearch {
+    background: linear-gradient(68.08deg, #1E3E01 9.64%, #116416 92.49%);
+    box-shadow: inset 1px -1px 4px rgba(0, 0, 0, 0.45);
+    border-radius: 15px;
+    box-sizing: border-box;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 21px;
+    width: 128px;
+    font-size: 20px;
+    height: 49px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.imgDiv {
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.24);
+    border-radius: 15px;
+    box-sizing: border-box;
+    width: 209px;
+    height: 208px;
+}
+
+.btnAdd {
+    background: linear-gradient(68.08deg, #1E3E01 9.64%, #116416 92.49%);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: 3px solid rgba(0, 0, 0, 0.24);
+    border-radius: 15px;
+    box-sizing: border-box;
+    font-size: 20px;
+    width: 128px;
+    height: 49px;
+    left: 530px;
+    top: 862px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+.btnUpdate {
+    background: #05166C;
+    font-size: 20px;
+    border: 3px solid rgba(0, 0, 0, 0.24);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    box-sizing: border-box;
+    width: 128px;
+    height: 49px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.btnDelete {
+    background: #700000;
+    border: 3px solid rgba(0, 0, 0, 0.24);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    box-sizing: border-box;
+    width: 128px;
+    height: 49px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.btnEditImg {
+    background: #05166C;
+    width: 31px;
+    height: 31px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.btnImgDelete {
+    background: #700000;
+    width: 31px;
+    height: 31px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.fo
