@@ -1,4 +1,4 @@
-# https---github.com-kameshDiviyanjana-Kandegedara-Tea-Distributors-
+# -Kandegedara-Tea-Distributors-
 
 # **Kandegedara Raw Tea Leaves Disributors** 🍃
 ### 🔖 Batch - Y2.S2.WD.IT.08.02
